@@ -1,6 +1,6 @@
 {
   "name": "xityle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "extended inline styling",
   "main": "xityle.min.js",
   "scripts": {
