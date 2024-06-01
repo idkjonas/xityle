@@ -2,7 +2,7 @@
   "name": "xityle",
   "version": "1.0.2",
   "description": "extended inline styling",
-  "main": "xityle.js",
+  "main": "xityle.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
