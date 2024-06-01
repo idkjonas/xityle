@@ -4,7 +4,7 @@ const affectedElements = document.querySelectorAll(
 
 if (!affectedElements.length) {
   console.warn(
-    "No EIS tags detected! try adding a `style-hover` attribute to an element"
+    "No xtyle tags detected! try adding a `style-hover` attribute to an element"
   );
 } else {
   affectedElements.forEach((e) => {
