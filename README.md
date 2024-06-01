@@ -1,5 +1,7 @@
 # xityle.js
 
+![size](https://img.shields.io/github/size/jnsdotgg/xityle/xityle.min.js)
+
 Xityle is a JavaScript library to extend the capabilities of inline styling, it adds support for hover, active, and focus state styling via attributes.
 
 ## How it works
@@ -19,8 +21,9 @@ To use this code in your project:
 <div
   style-hover="background-color: blue;"
   style-active="border: 2px solid red;"
-  style-focus="color: green;">
-    Hover over me!
+  style-focus="color: green;"
+>
+  Hover over me!
 </div>
 ```
 
