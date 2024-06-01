@@ -1,6 +1,6 @@
-# xtyle.js
+# xityle.js
 
-Xtyle is a JavaScript library to extend the capabilities of inline styling, it adds support for hover, active, and focus state styling via attributes.
+Xityle is a JavaScript library to extend the capabilities of inline styling, it adds support for hover, active, and focus state styling via attributes.
 
 ## How it works
 
@@ -10,8 +10,8 @@ It selects elements in the DOM that have attributes `style-hover`, `style-active
 
 To use this code in your project:
 
-1. Include the JavaScript file `xtyle.js` in your project.
-2. Add xtyle attributes (`style-hover`, `style-active`, `style-focus`) to the HTML elements you want to style dynamically.
+1. Include the JavaScript file `xityle.js` in your project.
+2. Add xityle attributes (`style-hover`, `style-active`, `style-focus`) to the HTML elements you want to style dynamically.
 
 ### Example:
 
